@@ -1,4 +1,4 @@
-name: JPF Runner
+name: Run JPF
 
 on:
   push:
